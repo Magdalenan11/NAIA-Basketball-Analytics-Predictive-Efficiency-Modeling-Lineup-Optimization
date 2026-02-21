@@ -13,22 +13,22 @@ This repository integrates advanced mathematical modeling with a robust data eng
 
 # What's in this Repository
 
-  •  'Magdalena_Vicencio_Final_Project.ipynb': This is the main file. It contains          the data ingestion logic, automated cleaning scripts, the PEI_40 Player             Performance Simulator, and the lineup optimization code.
+  •  `Magdalena_Vicencio_Final_Project.ipynb`: This is the main file. It contains          the data ingestion logic, automated cleaning scripts, the PEI_40 Player             Performance Simulator, and the lineup optimization code.
 
-  •  'FINAL_PROJECT.xlsx': The core data engine containing the cleaned datasets and        complex statistical formulas used to calculate efficiency metrics like eFG%,         USG%, and STOCKS.
+  •  `FINAL_PROJECT.xlsx`: The core data engine containing the cleaned datasets and        complex statistical formulas used to calculate efficiency metrics like eFG%,         USG%, and STOCKS.
 
-  •  'Math_In_Sports_Presentation.pptx': A presentation detailing the statistical         validation of the Player Efficiency Index and its correlation with national          tournament success.
+  •  `Math_In_Sports_Presentation.pptx`: A presentation detailing the statistical         validation of the Player Efficiency Index and its correlation with national          tournament success.
 
-  •  'Data_Methodology_Presentation.pptx': A technical presentation focusing on the      architecture of the data pipeline and the software foundation for coaching          strategy tools.
+  •  `Data_Methodology_Presentation.pptx`: A technical presentation focusing on the      architecture of the data pipeline and the software foundation for coaching          strategy tools.
 
 
 -------------------------------------------------------------------------------------
 
 # Usage Instructions
 
-1. **File Placement:** Download the '.ipynb' and '.xlsx' files into the same            directory.
+1. **File Placement:** Download the `.ipynb` and `.xlsx` files into the same directory.
 
-2. **Path Configuration:** In the notebook, ensure 'EXCEL_FILE_PATH = 'FINAL             PROJECT.xlsx'' is set to the local relative path.
+2. **Path Configuration:** In the notebook, ensure `EXCEL_FILE_PATH = 'FINAL PROJECT.xlsx'` is set to the local relative path.
 
 3. **Execution:** Run all cells to generate the visual heat maps and launch the interactive performance simulator.
 
